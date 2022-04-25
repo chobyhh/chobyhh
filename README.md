@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Cho.B.Y's&fontSize=50&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Cho.B.Y&fontSize=50&animation=fadeIn&fontAlignY=38)
 
 
 <div align="center">
