@@ -9,7 +9,6 @@
   
   <p>Hello, there!<p>
   <p>I'm a FE developer in React, JavaScript.<p>
-  <p>Also I have some experience with BE projects mostly in Java, Spring.<p>
   <p>For sure, My Final goal is FULL-STACK!✨<p>
   <br>
   
@@ -38,15 +37,10 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</p>
-<br>
-<p>  
-  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </p>
-<br>
+
 <p>  
   
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
