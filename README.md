@@ -3,7 +3,7 @@
 
 <div align="center">
   <p>
-    <a href="https://www.notion.so/Javascript-83d7f25eaa924ab0be7bba1f4fa44c02" target="_blank"><img src="https://img.shields.io/badge/Velog-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a>
+    <a href="https://www.notion.so/Javascript-83d7f25eaa924ab0be7bba1f4fa44c02" target="_blank"><img src="https://img.shields.io/badge/Notion-0000ff?style=flat&logo=GitHub Sponsors&logoColor=white"/></a>
     <a href="mailto:chobyhh@gmail.com" target="_blank"><img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
   </p>
   
